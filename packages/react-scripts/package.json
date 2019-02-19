@@ -1,5 +1,5 @@
 {
-  "name": "mchandler-cng/react-scripts",
+  "name": "@lms/react-scripts",
   "version": "2.1.5-01",
   "description": "Configuration and scripts for Create React App.",
   "repository": "mchandler-cng/create-react-app",
